@@ -1,14 +1,6 @@
 {
   "parks": [
     {
-      "Zip Code": 38804,
-      "Phone Number": 0,
-      "Fax Number": "(662) 680-4034",
-      "Latitude": 34.307545,
-      "Longitude": -88.720974,
-      "Location": { "coordinates": [-88.720974, 34.307545], "type": "Point" }
-    },
-    {
       "Location Number": "BRVB",
       "Location Name": "Brown v. Board of Education National Historic Site",
       "Address": "1515 SE Monroe Street",
